@@ -1,7 +1,0 @@
-C:\Users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\bin\Debug\Homework16.exe.config
-C:\Users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\CipherProgram.csprojResolveAssemblyReference.cache
-C:\users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\EncryptionAlgorithms.frmEXTENDED_EUCLID.resources
-C:\users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\EncryptionAlgorithms.frmMain.resources
-C:\users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\EncryptionAlgorithms.frmMatrix.resources
-C:\users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\CipherProgram.Client.Properties.Resources.resources
-C:\users\Madnoyz\Documents\School\CISP430\Homework16\Homework16\obj\Debug\CipherProgram.csproj.GenerateResource.Cache
