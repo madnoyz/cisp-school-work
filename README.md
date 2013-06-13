@@ -14,7 +14,7 @@ will be the individual classes or any specific projects.
 Anyone attending Folsom Lake College, hit me up! I want to create a study group, play some magic
 the gathering, or a few games of league of legends!
 
-## Academia
+# Academia:
 ## C / C++
 *  CISP 360 - Intro to Structured Programming - C
 *  CISP 400 - C++ Programming
@@ -23,7 +23,7 @@ the gathering, or a few games of league of legends!
 ## Assembly 0x86
 *  CISP 310 - Assembly Language
 
-## Personal
+# Personal:
 ## Python
 *  Sandbox
 
