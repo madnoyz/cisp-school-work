@@ -1,0 +1,5 @@
+C:\users\Madnoyz\Documents\School\CISP430\Proteins\Proteins\bin\Debug\Proteins.exe
+C:\users\Madnoyz\Documents\School\CISP430\Proteins\Proteins\bin\Debug\Proteins.pdb
+C:\users\Madnoyz\Documents\School\CISP430\Proteins\Proteins\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\users\Madnoyz\Documents\School\CISP430\Proteins\Proteins\obj\x86\Debug\Proteins.exe
+C:\users\Madnoyz\Documents\School\CISP430\Proteins\Proteins\obj\x86\Debug\Proteins.pdb

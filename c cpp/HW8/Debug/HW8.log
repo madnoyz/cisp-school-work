@@ -1,0 +1,17 @@
+﻿Build started 10/18/2012 2:56:17 AM.
+     1>Project "C:\users\Madnoyz\Documents\School\CISP430\HW8\HW8.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HW8.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HW8.vcxproj -> C:\users\Madnoyz\Documents\School\CISP430\HW8\Debug\HW8.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HW8.unsuccessfulbuild".
+         Touching "Debug\HW8.lastbuildstate".
+     1>Done Building Project "C:\users\Madnoyz\Documents\School\CISP430\HW8\HW8.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

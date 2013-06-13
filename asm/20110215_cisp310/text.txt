@@ -1,0 +1,52 @@
+The effective address (EA) of D(B,I,S) is D+B+(I*S)
+
+D-an expression that must be resolvable by link time
+B-is a base register
+I-is an index register
+S-scale (1, 2, 4, or 8)
+
+(B) is indirect
+D(B) is based
+D(B,I) is based indexed
+D(B,I,S) is based scaled indexed
+D is direct
+
+L1-----------
+?? ?? ?? ??  L2
+0x23
+0x40
+...
+L2-----------
+?? ?? ?? ??  L3
+0x40
+0x23
+L3-----------
+
+=======================================================================
+void *ptr = (void*)&ptr;
+
+
+
+    01
++   11
+------
+    10
++  110
+------
+    00
+
+
+    ab
++   cd
+------
+    ef
+   gh0
+------
+    ij
+
+f=R(b,d)
+j=f
+e=R(a,c)
+h=C(b,d)
+i=R(e,h)
+g=C(a,c)+C(e,h)
