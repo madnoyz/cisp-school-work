@@ -27,5 +27,5 @@ the gathering, or a few games of league of legends!
 ## Python
 *  Sandbox
 
-## C#
+## C Sharp
 *  For ASP MVC - Learning Web development
